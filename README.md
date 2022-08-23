@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8254238&assignment_repo_type=AssignmentRepo)
 # Dicionário Informal
 
 Nesta tareva você criará sua própria definição de um verbete para o [Dicionário Informal](www.dicionarioinformal.com.br) ou [Urban Dictionary](www.urbandictionary.com). O verbete que você definirá pode ser real ou inventado - você escolhe. A definição poderá ser compartilhada com o resto da turma, então cuide com o que você escrever!
